@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fish_array">
+        <item>Карп</item>
+        <item>Щука</item>
+        <item>Омуль</item>
+        <item>Лосось</item>
+        <item>Сазан</item>
+        <item>Окунь</item>
+        <item>Навага</item>
+        <item>Камбала</item>
+    </string-array>
+
+    <string-array name="naj_array">
+        <item>Червь</item>
+        <item>Кукуруза</item>
+        <item>Хлеб</item>
+        <item>Опарыш</item>
+        <item>Мякишь</item>
+        <item>Рыба</item>
+        <item>Тухляк</item>
+    </string-array>
+
+    <string-array name="sna_array">
+        <item>Грузила</item>
+        <item>Крючки</item>
+        <item>Леска</item>
+        <item>Блесна</item>
+    </string-array>
+
+    <string-array name="pri_array">
+        <item>Кукуруза</item>
+        <item>Хлеб</item>
+        <item>Рис</item>
+    </string-array>
+
+
+</resources>

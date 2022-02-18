@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_fish"
+            android:icon="@drawable/ic_premium_icon_fish_2508145"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/id_na"
+            android:icon="@drawable/ic_free_icon_worm_toy_53465"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/id_sna"
+            android:icon="@drawable/ic_premium_icon_fishing_baits_2944212"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/id_pri"
+            android:icon="@drawable/ic_premium_icon_bread_3865018"
+            android:title="@string/fragment_nav_food" />
+    </group>
+</menu>
